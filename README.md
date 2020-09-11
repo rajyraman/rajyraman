@@ -7,12 +7,12 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 [<img src='https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white' alt='dev' height='40'>](https://dev.to/rajyraman)  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/natrajyegnaraman/)  [<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/rajyraman)  [<img src='https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"' alt='YouTube' height='40'>](https://www.youtube.com/channel/NatrajYegnaraman)  [<img src='https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white' alt='website' height='40'>](dreamingincrm.com/feed)
 
 # Skills
-* [<img src='https://img.shields.io/badge/Power%20Apps-%23742774.svg?&style=flat-square&logo=microsoft&logoColor=white' alt='PowerApps' height='40'>]
-* [<img src='https://img.shields.io/badge/Power%20Automate-%2306f.svg?&style=flat-square&logo=microsoft&logoColor=white' alt='PowerAutomate' height='40'>]
-* [<img src='https://img.shields.io/badge/Dynamics%20365-%23002050.svg?&style=flat-square&logo=Dynamics%20365&logoColor=white' alt='Dynamics 365' height='40'>]
-* [<img src='https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white' alt='TypeScript' height='40'>]
-* [<img src='https://img.shields.io/badge/C%20Sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white"' alt='C#' height='40'>]
-* [<img src='https://img.shields.io/badge/Azure%20Functions-%230062ad.svg?&style=flat-square&logo=azure%20functions&logoColor=white"' alt='Azure Functions' height='40'>]
+* <img src='https://img.shields.io/badge/Power%20Apps-%23742774.svg?&style=flat-square&logo=microsoft&logoColor=white' alt='PowerApps' height='40'>
+* <img src='https://img.shields.io/badge/Power%20Automate-%2306f.svg?&style=flat-square&logo=microsoft&logoColor=white' alt='PowerAutomate' height='40'>
+* <img src='https://img.shields.io/badge/Dynamics%20365-%23002050.svg?&style=flat-square&logo=Dynamics%20365&logoColor=white' alt='Dynamics 365' height='40'>
+* <img src='https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white' alt='TypeScript' height='40'>
+* <img src='https://img.shields.io/badge/C%20Sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white"' alt='C#' height='40'>
+* <img src='https://img.shields.io/badge/Azure%20Functions-%230062ad.svg?&style=flat-square&logo=azure%20functions&logoColor=white"' alt='Azure Functions' height='40'>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
