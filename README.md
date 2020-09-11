@@ -11,6 +11,10 @@ Skills: Power Apps, Power Automate, TypeScript, C#
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating PCF Build using GitHub Actions](https://dreamingincrm.com/2020/05/06/automating-pcf-build-using-github-actions/)
+- [Opening Lookups in Main Form Dialog](https://dreamingincrm.com/2020/02/27/opening-lookups-in-main-form-dialog/)
+- [Using PowerShell to generate Earlybound classes](https://dreamingincrm.com/2019/11/16/using-powershell-to-generate-earlybound-classes/)
+- [Using PCF to display contact cards](https://dreamingincrm.com/2019/08/15/using-pcf-to-display-contact-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajyraman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rajyraman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/natrajyegnaraman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rajyraman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/NatrajYegnaraman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](dreamingincrm.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoft.svg' alt='microsoft' height='40'>](https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/33014)  
