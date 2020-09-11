@@ -22,8 +22,6 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 - [Using PCF to display contact cards](https://dreamingincrm.com/2019/08/15/using-pcf-to-display-contact-cards/)
 <!-- BLOG-POST-LIST:END -->
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyraman&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyraman)](https://github.com/anuraghazra/github-readme-stats)
