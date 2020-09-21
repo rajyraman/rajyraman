@@ -16,10 +16,10 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing PCF Components inside a container](https://dreamingincrm.com/2020/09/17/developing-pcf-components-inside-a-container/)
 - [Automating PCF Build using GitHub Actions](https://dreamingincrm.com/2020/05/06/automating-pcf-build-using-github-actions/)
 - [Opening Lookups in Main Form Dialog](https://dreamingincrm.com/2020/02/27/opening-lookups-in-main-form-dialog/)
 - [Using PowerShell to generate Earlybound classes](https://dreamingincrm.com/2019/11/16/using-powershell-to-generate-earlybound-classes/)
-- [Using PCF to display contact cards](https://dreamingincrm.com/2019/08/15/using-pcf-to-display-contact-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyraman&show_icons=true)  
