@@ -16,10 +16,10 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Self-Hosted Runner inside a container](https://dreamingincrm.com/2020/12/02/github-self-hosted-runner-inside-a-container/)
 - [Quickly scaffolding out your new PCF Component in GitHub](https://dreamingincrm.com/2020/10/01/quickly-scaffolding-out-your-new-pcf-component-in-github/)
 - [Developing PCF Components inside a container](https://dreamingincrm.com/2020/09/17/developing-pcf-components-inside-a-container/)
 - [Automating PCF Build using GitHub Actions](https://dreamingincrm.com/2020/05/06/automating-pcf-build-using-github-actions/)
-- [Opening Lookups in Main Form Dialog](https://dreamingincrm.com/2020/02/27/opening-lookups-in-main-form-dialog/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyraman&show_icons=true)  
