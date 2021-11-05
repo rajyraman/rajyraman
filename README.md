@@ -16,10 +16,10 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Exposure Bot using Google Actions, Azure Functions and Power Automate](https://dreamingincrm.com/2021/10/18/building-exposure-bot-using-google-actions-azure-functions-and-power-automate/)
+- [Resubmitting failed Logic Apps using Power Automate](https://dreamingincrm.com/2021/09/23/resubmitting-failed-logic-apps-using-power-automate/)
 - [Paging while using FetchXML in Dataverse Connector](https://dreamingincrm.com/2021/06/26/paging-while-using-fetchxml-in-dataverse-connector/)
 - [Using Custom API as a trigger for Flow](https://dreamingincrm.com/2021/06/20/using-custom-api-as-a-trigger-for-flow/)
-- [Future of developers in Power Platform](https://dreamingincrm.com/2021/04/08/does-power-platform-need-developers-anymore/)
-- [GitHub Self-Hosted Runner inside a container](https://dreamingincrm.com/2020/12/02/github-self-hosted-runner-inside-a-container/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyraman&show_icons=true)  
