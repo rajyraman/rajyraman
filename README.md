@@ -13,10 +13,10 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Power Platform CLI with Podman](https://dreamingincrm.com/2024/06/11/using-power-platform-cli-with-podman/)
+- [Gotcha: SharePoint List and Virtual Table Provider](https://dreamingincrm.com/2024/01/29/gotcha-sharepoint-list-and-virtual-table-provider/)
+- [Running Power Platform CLI in Azure Cloud Shell](https://dreamingincrm.com/2023/10/28/running-power-platform-cli-in-azure-cloud-shell/)
 - [Connecting to Dataverse from Function App using Managed Identity – Using azd](https://dreamingincrm.com/2023/08/08/connecting-to-dataverse-from-function-app-using-managed-identity-using-azd/)
-- [Using Azure Developer CLI to deploy Logic Apps Standard](https://dreamingincrm.com/2023/07/08/using-azure-developer-cli-to-deploy-logic-apps-standard/)
-- [Handling Azure AD MFA prompt in Playwright](https://dreamingincrm.com/2023/02/23/handling-mfa-in-playwright/)
-- [Using KQL for JSON Operations in Flow](https://dreamingincrm.com/2023/02/04/using-kql-for-json-operations-in-flow/)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajyraman&show_icons=true)  
