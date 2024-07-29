@@ -11,7 +11,7 @@ I am originally from India, but I currently live in Melbourne, Australia 🦘. I
 [<img src='https://img.shields.io/badge/Power%20Automate-%2306f.svg?&style=flat-square&logo=microsoft&logoColor=white' alt='PowerAutomate' height='30'>](https://flow.microsoft.com)
 [<img src='https://img.shields.io/badge/Dynamics%20365-%23002050.svg?&style=flat-square&logo=Dynamics%20365&logoColor=white' alt='Dynamics 365' height='30'>](https://dynamics.microsoft.com/)
 
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Using Power Platform CLI with Podman](https://dreamingincrm.com/2024/06/11/using-power-platform-cli-with-podman/)
 - [Gotcha: SharePoint List and Virtual Table Provider](https://dreamingincrm.com/2024/01/29/gotcha-sharepoint-list-and-virtual-table-provider/)
